@@ -20,5 +20,6 @@ env/
 .ipynb_checkpoints/
 
 /materials
+/lab2/report/typst
 
 CLAUDE.md
